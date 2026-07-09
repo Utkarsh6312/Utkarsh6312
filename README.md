@@ -4,7 +4,7 @@
 
 ### 🚀 Software Engineer • Full Stack Developer • AI/ML Enthusiast • Competitive Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Engineer;Java+Developer;Building+Developer+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Engineer;Competitive+Programmer;Building+Developer+Tools" alt="Typing SVG" />
 
 <br/>
 
